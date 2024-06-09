@@ -1,0 +1,1 @@
+query_id=AAEe0ERMAAAAAB7QREzOgCBP&user=%7B%22id%22%3A1279578142%2C%22first_name%22%3A%22albadawi%22%2C%22last_name%22%3A%22ilham%22%2C%22username%22%3A%22ilhamalbadawi20%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1717958904&hash=44934215af1a334b40616d22ec9ae65d3844f3fee8b6e2313c661ee77efba903
